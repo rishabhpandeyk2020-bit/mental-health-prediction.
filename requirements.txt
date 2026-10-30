@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+pymysql
+bcrypt
+python-multipart
+pandas
+joblib
+scikit-learn
